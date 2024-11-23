@@ -1,6 +1,11 @@
 # lets-zeditor
 Try the zed editor that supports vim mode.
 
+# Install @ Artix Linux
+```bash
+sudo pacman -S zed
+```
+
 ## Use CLI
 ```bash
 zeditor file
